@@ -1,0 +1,5 @@
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+opencv-python>=4.8
+fpdf2>=2.7
